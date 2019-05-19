@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uumowaing.mind.today/sitemap.xml
